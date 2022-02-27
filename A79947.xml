@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a London diurnall.</title>
+            <author>Cleveland, John, 1613-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79947</idno>
+            <idno type="STC">Wing C4659</idno>
+            <idno type="STC">Thomason E268_6</idno>
+            <idno type="STC">ESTC R212392</idno>
+            <idno type="EEBO-CITATION">99871015</idno>
+            <idno type="PROQUEST">99871015</idno>
+            <idno type="VID">159413</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159413)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E268[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a London diurnall.</title>
+                  <author>Cleveland, John, 1613-1658.</author>
+               </titleStmt>
+               <extent>[2], 8, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>By L. Lichfield],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Printed in the yeare 1644. [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Cleveland.</note>
+                  <note>Place of publication and printer's name from Wing.</note>
+                  <note>Wing has publication year 1644[/5]; Thomason catalogue lists under 1645.</note>
+                  <note>In this edition there is a title page border and page 5 begins "First, Stamford slew". "There is a London reprint, with no border round title and pp. [2] + 6 only (p. 5 beg. 'Gold that glisters') which is made from the 2nd Oxford edition"--Madan.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "In february".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English newspapers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159413:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>
+               <hi>THE</hi> CHARACTER <hi>OF A</hi> LONDON DIURNALL.</p>
+            <p>
+               <add>In February.</add> Printed in the Yeare 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159413:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="1" facs="tcp:159413:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>THE <hi>CHARACTER OF A</hi> LONDON DIURNALL.</head>
+            <p>
+               <seg rend="decorInit">A</seg> 
+               <hi>Diurnall</hi> is a puny Chronicle, ſcarce pin<g ref="char:EOLhyphen"/>feather'd with the win<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of time: It is an Hiſtory in <hi>Sippets;</hi> the <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngliſh <hi>Iliads</hi> in a Nut-ſhell; the <hi>Apocryphal</hi> Parliaments booke of <hi>Maccabees</hi> in ſingle ſheets. It would tyre a Welch-pedigree, to reckon how many aps 'tis remov'd from an Annal: For it is of that Extract; onely of the younger Houſe, like a Shrimp to a Lobſter. The <hi>originall ſinner</hi> in this kind was Dutch; <hi>Gal<g ref="char:EOLhyphen"/>liobelgicus</hi> the <hi>Protoplaſt;</hi> and the <hi>moderne Mercuries</hi> but <hi>Hans-en-Kelders.</hi> The Counteſſe of <hi>Zealand</hi> was brought to Bed of an Almanack; as many Children, as dayes in the yeare. It may be the <hi>Legiſlative Lady</hi> is of that Lynage; ſo ſhe ſpawnes the <hi>Diurnalls,</hi> and they at <hi>Westminster</hi> take them in Adoption, by the names of <hi>Scoticus, Civicus,
+<pb n="2" facs="tcp:159413:3"/>
+                  <!-- PDF PAGE 15 -->Britanicus.</hi> in the Frontiſpice of the old <hi>Beldame<g ref="char:punc">▪</g> Diur<g ref="char:EOLhyphen"/>nall,</hi> like the Contents of the Chapter, ſits the Houſe of Commons, judging the twelve Tribes of <hi>Iſrael.</hi> You may call them, the Kingdomes Anatomy before the weekly Ka<g ref="char:EOLhyphen"/>lender: For ſuch is a <hi>Diurnall,</hi> the day of the moneth, with what weather in the Common-wealth. 'Tis taken for the Pulſe of the Body-Politique; and the Emperick-Divines of the Aſſembly, thoſe ſpirituall <hi>Dragooners,</hi> thumbe it accordingly. Indeed it is a pretty <hi>Synopſis;</hi> and thoſe grave <hi>Rabbyes</hi> (though in point of <hi>Divinity</hi>) trade in no larger Authors. The Country<g ref="char:punc">▪</g> Carryer, when he buyes it for their Vicar, miſcalls it the <hi>
+                  <g ref="char:V">Ʋ</g>rinall:</hi> yet properly enough; For it caſts the water of the State, ever ſince it ſtaled bloud. It differs from an <hi>Aulicus,</hi> as the Devill and his Exorciſt; or as a black Witch doth from a white one, whoſe office is to unravell her inchantm<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts.</p>
+            <p>It begins uſually with an Ordinance, which is a Law ſtill-borne; dropt, before quickned by the Royall aſſent: 'Tis one of the Parliaments by-blowes, (Acts onely being legi<g ref="char:EOLhyphen"/>timate) and hath no more Syre, then a Spaniſh Gennet, that's begotten by the wind.</p>
+            <p>Thus their <hi>Mil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tia</hi> (like its Patron, <hi>Mars</hi>) is the iſſue onely of the Mother, without the concourſe of royall <hi>Ju<g ref="char:EOLhyphen"/>piter.</hi>
+            </p>
+            <p>Y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Law it is, if they Vote it, though in defiance to their <hi>Fundamentals;</hi> like the old <hi>Sexton,</hi> who ſwore his Clock went true, what ever the Sunne ſaid to the contrary.</p>
+            <p>The next <hi>Ingredient</hi> of a <hi>Diurnall</hi> is Plots, horrible plots; which with wonderfull Sagacity it hunts dry-foot, while they are yet in their Cauſes, before <hi>Materia prima</hi> can put on her Smock. How many ſuch fits of the Mother have troubled the Kingdome, and (for all Sir <hi>Walter Earle</hi> looks like a Man-Midwife) not yet delivered of ſo much, as a Cuſhion? But Actours muſt have their Properties; And, ſince the Stages were voted downe, the onely Play-houſe is at <hi>Weſtminſter.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:159413:3"/>
+               <!-- PDF PAGE 15 -->
+Suteable to their Plots are their Informers; <hi>Skippers</hi> and <hi>Taylours;</hi> Spaniells both for the Land and the Water: <hi>Good conſcionable</hi> Intelligence! For however <hi>Pym's</hi> Bill may inf<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me the Reckoning, the honeſt Vermyn have not ſo much for Lying, as the <hi>Publique Faith.</hi>
+            </p>
+            <p>Thus a zea<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous Botcher i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Morefields,</hi> while he was con<g ref="char:EOLhyphen"/>triving ſome <hi>Quirpo-cut</hi> of Church Government, by the help of his out-lying Eares, and the <hi>Otacouſticon</hi> of the Spi<g ref="char:EOLhyphen"/>rit, diſcovered ſuch a Plot, that <hi>Solden</hi> intends to combate Antiquity, and maintaine it was a Taylours Gooſe, that preſerved the <hi>Capitol.</hi>
+            </p>
+            <p>I wonder my Lord of <hi>Canterbury</hi> is not once more all-to-be-Traytor'd for dealing with the Lions, to ſettle the Commiſſion of Array in the Tower. It would doe well to crampe the Artieles Dormant, beſides the opportunity of reforming thoſe Beaſts of the Prerogative, and changing their prophaner names of <hi>Harry</hi> and <hi>Charles,</hi> into <hi>Nehe<g ref="char:EOLhyphen"/>miah</hi> and <hi>Eleazer.</hi>
+            </p>
+            <p>Suppoſe a Corne-cutter, being to give little <hi>Iſaack</hi> a caſt of his Office, ſhould fall to pareing his Browes, miſta<g ref="char:EOLhyphen"/>king the one end for the other; becauſe he branches at both. This would be a Plot; and the next <hi>Diurnall</hi> would furniſh you with this Seale of Votes.</p>
+            <p>
+               <hi>Reſolved</hi> upon the Queſtion; that this Act of the Corne-cutters was an abſolute Invaſion of the Cities Char<g ref="char:EOLhyphen"/>ter, in the <hi>repreſentative</hi> Forehead of <hi>Iſaack.</hi> Reſolved, that the evill Counc<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llors about the Corne-cutter are Po<g ref="char:EOLhyphen"/>piſhly affected, and Enemies to the State. Reſolved, that there be a publicke Thankeſgiving for the great delive<g ref="char:EOLhyphen"/>rance of <hi>Iſaack's</hi> Brow-antlers; and a ſolemne Covenant drawne up, to defye the Corne-cutter and all his workes.</p>
+            <p>Thus the <hi>Quixotes</hi> of this Age fight with the Wind<g ref="char:EOLhyphen"/>mil<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of their owne Heads; quell Monſters of their owne Creation; make Plots, and then diſcover them; as who fitter to unkennell the Fox, then the Tarryer, that is a part of him.</p>
+            <p>
+               <pb n="4" facs="tcp:159413:4"/>
+               <!-- PDF PAGE 16 -->
+In the third place march their Adventures; the <hi>Round-heads</hi> Legend, the Rebells Romance; Stories of a larger ſize, then the Ea<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of their Sect; able to ſtrangle the Be<g ref="char:EOLhyphen"/>liefe of a <hi>Soli-fidian.</hi>
+            </p>
+            <p>I'le preſent them in their order; and firſt, as a Whiffeler before the ſhow, enter <hi>Stamford;</hi> one that trod the Stage with the firſt, <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ravers'd his ground, made a legge and <hi>Ex<g ref="char:EOLhyphen"/>it.</hi> The Countrey People took him for one, that by Order of the Houſes was to dance a Morice through the Weſt of <hi>England:</hi> Well, hee's a nimble Gentleman; ſet him but upon <hi>Bankes</hi> his Horſe in a Saddle Rampant; and it is a great queſtion, which part of the Centaure ſhewes bet<g ref="char:EOLhyphen"/>ter tricks.</p>
+            <p>There was a vote paſſing to tranſlate him, with all his E<g ref="char:EOLhyphen"/>quipage, into Monumentall-Gingerbread: but it was croſs'd by the Female-Committee, alleadging that the valour of his Image would bite their Children by the Tongues.</p>
+            <p>This Cubit and an halfe of Commander, by the help of a <hi>Diurnall,</hi> routed his Enemyes fifty Miles off: 'tis ſtrange you'le ſay; and yet it is generally beleived, he would as ſoone doe it at that diſtance, as nearer hand. Sure it was his Sword, for which the weapon-ſalve was invented; that ſo wounding and healing, like<g ref="char:punc">▪</g> loving <hi>Correlates,</hi> might both worke at the ſame removes.</p>
+            <p>But the Squibbe is run to the end of the Rope. Roome; for the <hi>Prodigy</hi> of <hi>Valour, Maddam-Atropos</hi> in breeche<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Wa<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ers</hi> Knight-errantry: and, becauſe every <hi>Mountibanke</hi> muſt have his <hi>Zany,</hi> throw him in <hi>Haſlerigge,</hi> to ſet off his ſtory: theſe two, like <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> and the <hi>Dragon,</hi> are alwaies wor<g ref="char:EOLhyphen"/>ſhipped in the ſame Chapter: they hunt in their Couples what one doth at the head, the other ſcores up at the heele.</p>
+            <p>Thus they kill a man over and over, as <hi>Hopkins</hi> and <hi>Sternhold</hi> murder the Pſalmes, with another to the ſame; one chimes all in, and then the other ſtrikes up, as the Saints-Bell.</p>
+            <p>I wonder, for how many lives my Lord <hi>Hoptons</hi> Soule tooke the Leaſe of his Body.</p>
+            <p>
+               <pb n="5" facs="tcp:159413:4"/>
+               <!-- PDF PAGE 16 -->
+Firſt, <hi>Stamford</hi> ſlew him: then <hi>Waller</hi> out-killd that halfe a Barre: and yet it is thought the ſullen Corps would ſcarce bleed, were both theſe Man-ſlayers never ſo neare it.</p>
+            <p>The fame goes of a <hi>Dutch</hi> Heads-man, that he would doe his Office with ſo much eaſe and Dexterity, that the Head after Execution ſhould ſtand ſtill upon the ſhoul<g ref="char:EOLhyphen"/>ders: pray God Sir <hi>William</hi> be not Probationer for the place. For, as if he had the like knack too, moſt of thoſe, whom the <hi>Diurnall</hi> hath ſlaine for him, to us poore Mortals ſeem untoucht.</p>
+            <p>Thus theſe Artificers of Death can kill the Man, with<g ref="char:EOLhyphen"/>out wounding the Body, like lightning, that melts the Sword and never ſinges the Scabbard.</p>
+            <p>This in the <hi>William,</hi> whoſe Lady is the <hi>Conquerour;</hi> This is the <hi>Cities Champion,</hi> and the <hi>Diurnalls delight;</hi> he, that Cuckolds the Generall in his Commiſſion: for he ſtalkes with <hi>Eſſex,</hi> and ſhootes under his Belly, becauſe his Oxcellency himſelfe is not charged there. Yet in all this Triumph there is a whip and a Bell: Tranſlate but the Scene to <hi>Round-way-downe:</hi> There <hi>Haſl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riggs</hi> Lobſters were turnd into Crabs, and crawl'd backwards; there poore Sir <hi>William</hi> ranne to his Lady for a uſe of conſola<g ref="char:EOLhyphen"/>tion.</p>
+            <p>But the <hi>Diurnall</hi> is weary of the Arme of fleſh, and now begins an <hi>Hoſanna</hi> to <hi>Cromwell,</hi> one that hath beate up his Drummes cleane through the Old Teſtament: you may learne the Genealogy of our Saviour, by the names in his Regiment: The Muſter-Maſter uſes no other Liſt, then the firſt Chapter of <hi>Matthew.</hi>
+            </p>
+            <p>With what face can they object to the King the bring<g ref="char:EOLhyphen"/>ing in of Forraigners, when themſelves intertaine ſuch an Army of <hi>Hebrews?</hi> This <hi>Cromwell</hi> is never ſo valorous, as when he is making Speeches for the Aſſociation, which nevertheleſſe he doth ſomewhat ominouſly, with his
+<pb n="6" facs="tcp:159413:5"/>
+               <!-- PDF PAGE 17 -->Neck awry, holding up his Eare, as if he expected <hi>Maho<g ref="char:EOLhyphen"/>met-Pidgeon</hi> to come, and prompt him: He ſhould be a Bird of Prey too, by his bloody Beake: his Noſe is able to try a young E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gle, whether ſhe be lawfully begotten. But all is not Gold that gliſters: What we wonder at in the reſt of them, is naturall to him; to kill without Blood<g ref="char:EOLhyphen"/>ſhed: For moſt of his Trophees are in a Church-Window; when a Looking-Glaſſe would ſhew him more ſuperſtiti<g ref="char:EOLhyphen"/>on: He is ſo perfect a hater of Images, that he hath de<g ref="char:EOLhyphen"/>faced Gods in his owne Countenance: If he deale with Men, it is when he takes them napping in an old Monu<g ref="char:EOLhyphen"/>ment: Then downe goes Duſt and Aſhes. And the ſtou<g ref="char:EOLhyphen"/>teſt Cavalier is no better. O brave <hi>Oliver!</hi> Times voy<g ref="char:EOLhyphen"/>der, Sub-ſizer to the Wormes; in whom Death, that for<g ref="char:EOLhyphen"/>merly devoured our Anceſtors, now chewes the Cud: He ſayd Grace once, as if he would have falne aboard with the Marquiſſe of <hi>New-caſtle:</hi> Nay, and the <hi>Diurnall</hi> gave you his Bill of Fare; But it prov'd but a Running Banquet, as appeares by the Story. Believe him as hee whiſtles to his <hi>Cambridge Teeme</hi> of Committy-men; and he doth Wor<g ref="char:EOLhyphen"/>ders. But Holy men (like the <hi>Holy language</hi>) muſt be read backwards. They rifle Colledges, to promote Learning; and pull downe Churches for Edification. But Sacriledge is entailed upon him: There muſt be a <hi>Cromwell</hi> for Ca<g ref="char:EOLhyphen"/>thedralls, as well as Abbyes: A ſecure ſinner, whoſe of<g ref="char:EOLhyphen"/>fence carries its Pardon in its Mouth: For how can he be hang'd for Church-robbery, which gives it ſelfe the Bene<g ref="char:EOLhyphen"/>fit of the Clergy.</p>
+            <p>But for all <hi>Cromwells</hi> Noſe weares the Dominicall Letter, yet compared with <hi>Mancheſter,</hi> he is but like the <hi>Vigils</hi> to an Holy-day. This, this is the man of God; ſo ſanctified a Thunder-bolt, that <hi>Burrowes</hi> in a pro<g ref="char:EOLhyphen"/>portionable blaſphemy to his <hi>Lords of Hoſts,</hi> would ſtile him the <hi>Arch-Angell,</hi> giving Battle to the Di<g ref="char:EOLhyphen"/>vell.</p>
+            <p>
+               <pb n="7" facs="tcp:159413:5"/>
+               <!-- PDF PAGE 17 -->
+Indeed as the Angels, each of them makes a ſeverall, <hi>Species;</hi> ſo every one of his Souldiers is a diſtinct Church. Had theſe Beaſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beene to enter the Arke, it would have puzled <hi>Noah</hi> to have ſorted them into Paires. If ever there were a Rope of Sand, it was ſo many Sects twiſted into an Aſſociation.</p>
+            <p>They agree in nothing, but that they are all <hi>Adamites</hi> in Vnderſtanding: It is the ſigne of a Coward, to <hi>winke</hi> and <hi>Fight;</hi> yet all their Valour proceedes from their <hi>Igno<g ref="char:EOLhyphen"/>rance.</hi>
+            </p>
+            <p>But I wonder whence their Generals Purity proceedes, it is not by <hi>Traduction:</hi> if he was begotten Saint, it was by Equivocall Generation: for the Devill in the Father, is turn'd Monke in the Sonne; ſo his godlineſſe is of the ſame Parentage with good Lawes; both extracted out of bad Manners; and would he alter the Scripture, as he hath at<g ref="char:EOLhyphen"/>tempted the Creed, he might vary the Text, and ſay to Corruption, Thou art my <hi>Father.</hi>
+            </p>
+            <p>This is he, that hath put out one of the Kingdoms eyes, by clouding our Mother-Vniverſity, and (if the Scotch<g ref="char:EOLhyphen"/>miſt further prevaile) will extinguiſh thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other: He hath the like quarrell to both; becauſe both are ſtrung with the ſame <hi>Optick Nerve, knowing Loyalty.</hi> Barbarous: Rebell! who will be reveng'd upon all Learning, becauſe his Trea<g ref="char:EOLhyphen"/>ſon is beyond the Mercy of the Book.</p>
+            <p>The <hi>Diurnall</hi> a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet hath not talk't much of his Victo<g ref="char:EOLhyphen"/>ries: but there is the more behind: For the Knight muſt alwaies beat the Gyant; That's reſolv'd. If any thing fall out amiſſe, which cannot be ſmothered, the <hi>Diurnall</hi> hath a Help at Mawe; It is but putting to Sea, and taking a <hi>Da<g ref="char:EOLhyphen"/>niſh Fleet;</hi> or Brewing it with ſome ſucceſſe out of <hi>Ireland;</hi> and it goes downe merrily.</p>
+            <p>There are more Puppets, that move by the Wyre of a <hi>Diurnall;</hi> as <hi>Brereton</hi> and <hi>Gell;</hi> two of <hi>Mars</hi> his Petty<g ref="char:EOLhyphen"/>toes, ſuch ſniveling Cowards, that it is a favour, to call
+<pb n="8" facs="tcp:159413:6"/>
+               <!-- PDF PAGE 18 -->them ſo, was <hi>Brereton</hi> to fight with his teeth as in all other things he reſembles the beaſt, he would have odds of any man at the weapon; O he's a terrible ſlaughterman at a Thanke<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-giving Dinner, had he been a <hi>Canniball</hi> to have eaten thoſe that he vanquiſh'd, his gut would have made him valiant.</p>
+            <p>The greateſt wonder is at <hi>Fairfax;</hi> how he comes to be a Babe of Grace? Certainly it is not in his perſonall, but (as the <hi>State Sophies</hi> diſtinguiſh) in his Politique Capacity; regenerated <hi>ab extra,</hi> by the zeale of the Houſe he ſate in, as Chickens are hatcht at <hi>Grand Cairo,</hi> by the Adoption of an Oven.</p>
+            <p>There is the <hi>Wood-Monger</hi> too, a feeble crutch to a de<g ref="char:EOLhyphen"/>clining cauſe; a new Branch of the old <hi>Oake</hi> of <hi>Reformati<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p>And now I ſpeake of Reformation, <hi>vous avez Fox,</hi> the Tinker; the livelieſt Embleme of it that may be; For what did this Parliament ever goe about to reforme, but Tinker-wife; in mending one Hole they made three.</p>
+            <p>But I have not Inke enough to cure all the Tetters and Ring-wormes of the State.</p>
+            <p>I will cloſe up all thus. The Victories of the Rebells are like the Magicall combate of <hi>Apuleius;</hi> who, thinking he had ſlain three of his Enemie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, found them at laſt, but a Triumvirate, of Bladders. Such, and ſo empty, are the Triumphs of a <hi>Diurnall:</hi> but ſo many impoſtumated Fan<g ref="char:EOLhyphen"/>cies, ſo many Bladders of their own Blowing.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
